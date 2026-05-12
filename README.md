@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChichiDiwuorie
+- 👋 Hi, I’m Chichi
 - 👀 I’m interested in all things Cloud & AI
 - 🌱 I’m currently learning more about AI Systems and Orchestration
 - 💞️ I’m looking to collaborate on AI projects
